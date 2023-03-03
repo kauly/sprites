@@ -1,23 +1,23 @@
 {
   "carro": {
-    "height": 24,
+    "height": 400,
     "pixelRatio": 1,
-    "width": 24,
-    "x": 0,
+    "width": 480,
+    "x": 512,
     "y": 0
   },
   "moto": {
-    "height": 24,
+    "height": 48,
     "pixelRatio": 1,
-    "width": 24,
-    "x": 24,
-    "y": 0
+    "width": 48,
+    "x": 0,
+    "y": 512
   },
   "outros": {
-    "height": 24,
+    "height": 512,
     "pixelRatio": 1,
-    "width": 24,
+    "width": 512,
     "x": 0,
-    "y": 24
+    "y": 0
   }
 }
